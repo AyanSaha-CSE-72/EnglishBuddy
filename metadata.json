@@ -1,0 +1,10 @@
+{
+  "name": "EnglishBuddy",
+  "description": "A friendly English Language Specialist AI Voice Agent to help you improve your speaking and communication skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Real-time AI Voice Interaction"
+  ]
+}
